@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FamoseDose
+- 👀 I’m interested in Programming Web Development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me der_tobias@icloud.com
